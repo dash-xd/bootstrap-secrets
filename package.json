@@ -6,7 +6,7 @@
   "type": "commonjs",
   "main": "./lib/index.js",
   "bin": {
-    "bootstrap-sops": "./bin/bootstrap-sops"
+    "bootstrap-sops": "./bin/bootstrap-sops.js"
   },
   "files": [
     "bin",
